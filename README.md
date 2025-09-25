@@ -1,6 +1,6 @@
-# MediMeet - Doctor Appointment Web App
+# CarePulse - Doctor Appointment Web App
 
-**MediMeet** is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. It offers three levels of login: **Patient**, **Doctor**, and **Admin**, each with distinct features tailored to their roles. The app integrates **online payment gateways (Stripe)** to facilitate seamless and secure payments. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), MediMeet provides an efficient, user-friendly experience for both patients and healthcare providers.
+**CarePulse** is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. It offers three levels of login: **Patient**, **Doctor**, and **Admin**, each with distinct features tailored to their roles. The app integrates **online payment gateways (Stripe)** to facilitate seamless and secure payments. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), CarePulse provides an efficient, user-friendly experience for both patients and healthcare providers.
 
 ## Tech Stack
 
@@ -47,7 +47,7 @@
 
 ## About Page
 
-- Provides information about **MediMeet’s vision** and mission.
+- Provides information about **CarePulse’s vision** and mission.
 - **Why Choose Us** section highlights:
   - **Efficiency**: Streamlined appointment process.
   - **Convenience**: Online booking and payment.
@@ -114,8 +114,8 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/MediMeet.git
-   cd MediMeet
+   git clone https://github.com/your-username/CarePulse.git
+   cd CarePulse
    ```
 2. **Environment Variables**:
    - Create a `.env` file in the backend folder:
